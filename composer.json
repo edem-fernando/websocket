@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Server\\": "server/"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "^0.4.3",
+        "textalk/websocket": "^1.6"
+    }
+}
